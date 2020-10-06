@@ -39,5 +39,5 @@
 
 ![Muneeb's github stats](https://github-readme-stats.vercel.app/api?username=muneeb-airlift&count_private=true&hide=contribs,prs&show_icons=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=muneeb-airlift.muneeb-airlift)
+![](https://visitor-badge.laobi.icu/badge?page_id=muneeb-airlift)
 [![Github](https://img.shields.io/github/followers/muneeb-airlift?label=Follow&style=social)](https://github.com/muneeb-airlift)
